@@ -1,0 +1,32 @@
+JOB TITLE: QA Engineer
+
+LOCATION: Cluj-Napoca
+EXPERIENCE: 1–4 years
+EDUCATION: Computer Science or related field
+
+ROLE OVERVIEW:
+We are looking for a QA Engineer to ensure software quality through testing and validation.
+
+KEY RESPONSIBILITIES:
+- Write and execute test cases
+- Perform manual and automated testing
+- Identify, report, and track bugs
+- Test APIs and integrations
+- Work closely with developers to improve quality
+
+REQUIRED SKILLS:
+- Manual testing
+- Selenium or Cypress
+- API testing
+- Attention to detail
+- Understanding of software development lifecycle
+
+NICE TO HAVE:
+- Performance testing
+- CI/CD knowledge
+- Test automation frameworks
+
+TEAM & CULTURE:
+- Quality-focused mindset
+- Strong collaboration with developers
+- Continuous improvement approach

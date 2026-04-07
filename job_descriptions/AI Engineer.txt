@@ -1,0 +1,37 @@
+JOB TITLE: AI Engineer
+
+LOCATION: Cluj-Napoca (Hybrid)
+EXPERIENCE: 1–3 years
+EDUCATION: Computer Science or related field
+
+ROLE OVERVIEW:
+Design and build AI-powered solutions such as workflows, agents, and proof-of-concepts.
+Work with modern generative AI technologies to improve software systems.
+
+KEY RESPONSIBILITIES:
+- Build AI workflows and agent-based systems
+- Develop prototypes using LLMs and AI platforms
+- Collaborate with product and engineering teams
+- Create reusable AI components and tools
+- Evaluate and improve AI model performance
+- Stay up to date with AI trends
+
+REQUIRED SKILLS:
+- Python
+- LLM APIs
+- Vector databases
+- RAG (Retrieval-Augmented Generation)
+- FastAPI or similar backend frameworks
+- Prompt engineering
+- Strong problem-solving skills
+
+NICE TO HAVE:
+- LangChain or LlamaIndex
+- Streamlit or Gradio
+- Cloud platforms (AWS, Azure)
+- Basic DevOps knowledge
+
+TEAM & CULTURE:
+- Fast-paced environment
+- Focus on innovation and experimentation
+- Strong learning culture

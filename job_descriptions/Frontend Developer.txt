@@ -1,0 +1,32 @@
+JOB TITLE: Frontend Developer
+
+LOCATION: Cluj-Napoca (Hybrid)
+EXPERIENCE: 2–4 years
+EDUCATION: Computer Science or related field
+
+ROLE OVERVIEW:
+We are looking for a Frontend Developer to build modern and responsive user interfaces.
+
+KEY RESPONSIBILITIES:
+- Develop user-facing features
+- Improve UI/UX performance
+- Collaborate with designers and backend developers
+- Optimize applications for speed and scalability
+- Maintain code quality
+
+REQUIRED SKILLS:
+- JavaScript / TypeScript
+- React / Angular / Vue
+- HTML & CSS
+- Responsive design
+- Problem-solving skills
+
+NICE TO HAVE:
+- Testing frameworks
+- Accessibility knowledge
+- Performance optimization techniques
+
+TEAM & CULTURE:
+- User-focused development
+- Agile environment
+- Strong design collaboration

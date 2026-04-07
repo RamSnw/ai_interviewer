@@ -1,0 +1,32 @@
+JOB TITLE: Data Analyst
+
+LOCATION: Cluj-Napoca
+EXPERIENCE: 1–3 years
+EDUCATION: Economics, Computer Science, or related field
+
+ROLE OVERVIEW:
+We are looking for a Data Analyst to turn data into insights that support business decisions.
+
+KEY RESPONSIBILITIES:
+- Analyze datasets and generate reports
+- Build dashboards and visualizations
+- Identify trends and patterns
+- Work with stakeholders to understand data needs
+- Present findings in a clear and simple way
+
+REQUIRED SKILLS:
+- SQL
+- Excel / Google Sheets
+- Power BI or Tableau
+- Basic Python or R
+- Analytical thinking
+
+NICE TO HAVE:
+- Statistics knowledge
+- Data storytelling skills
+- Experience with large datasets
+
+TEAM & CULTURE:
+- Data-driven decision making
+- Business-focused environment
+- Strong collaboration with stakeholders

@@ -1,0 +1,39 @@
+JOB TITLE: Network Engineer
+
+LOCATION: Cluj-Napoca (Hybrid)
+EXPERIENCE: 1–3 years
+EDUCATION: Computer Science, Information Technology, or related field
+
+ROLE OVERVIEW:
+Design, implement, and support network infrastructure solutions to ensure secure, reliable, and high-performing connectivity across systems and environments.
+Work with modern networking technologies to maintain and improve enterprise network operations.
+
+KEY RESPONSIBILITIES:
+- Configure and maintain network devices such as routers, switches, and firewalls
+- Monitor network performance and troubleshoot connectivity issues
+- Support LAN, WAN, VPN, and wireless network environments
+- Collaborate with infrastructure and security teams on network-related projects
+- Assist with network upgrades, maintenance, and documentation
+- Ensure network availability, security, and compliance with standards
+- Stay up to date with networking technologies and best practices
+
+REQUIRED SKILLS:
+- TCP/IP networking
+- Routing and switching
+- Network troubleshooting
+- Firewalls and VPNs
+- DNS, DHCP, and VLANs
+- Understanding of network security principles
+- Strong problem-solving skills
+
+NICE TO HAVE:
+- Experience with Cisco, Juniper, or similar vendors
+- Knowledge of wireless networking
+- Familiarity with cloud networking concepts
+- Basic scripting knowledge (Python, Bash, or PowerShell)
+- Certifications such as CCNA or equivalent
+
+TEAM & CULTURE:
+- Fast-paced environment
+- Focus on reliability, security, and continuous improvement
+- Strong learning culture

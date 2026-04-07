@@ -1,0 +1,22 @@
+JOB TITLE: Data Analyst
+
+We are looking for a Data Analyst to support reporting, data validation, and business insights.
+
+Main responsibilities:
+- Gather and clean data from different sources
+- Build reports and dashboards
+- Work with SQL queries to extract and validate data
+- Analyze trends and communicate findings clearly
+- Support business teams with ad hoc analysis
+
+Required skills:
+- Good SQL knowledge
+- Experience with Excel or reporting tools
+- Strong attention to detail
+- Good communication skills
+- Ability to work with structured data
+
+Nice to have:
+- Python knowledge
+- Experience with dashboards such as Power BI or Tableau
+- Experience working with stakeholders

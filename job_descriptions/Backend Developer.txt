@@ -1,0 +1,32 @@
+JOB TITLE: Backend Developer
+
+LOCATION: Cluj-Napoca (Hybrid)
+EXPERIENCE: 2–5 years
+EDUCATION: Computer Science or related field
+
+ROLE OVERVIEW:
+We are looking for a Backend Developer to design and build scalable server-side systems.
+
+KEY RESPONSIBILITIES:
+- Develop backend services and APIs
+- Design system architecture
+- Manage databases
+- Ensure performance and scalability
+- Collaborate with frontend teams
+
+REQUIRED SKILLS:
+- Java / Python / Node.js
+- REST APIs
+- SQL / NoSQL databases
+- System design basics
+- Problem-solving skills
+
+NICE TO HAVE:
+- Microservices architecture
+- Docker / Kubernetes
+- Cloud platforms
+
+TEAM & CULTURE:
+- Engineering-driven culture
+- Focus on clean architecture
+- Continuous improvement mindset

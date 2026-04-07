@@ -1,0 +1,35 @@
+JOB TITLE: Data Engineer
+
+LOCATION: Cluj-Napoca (Hybrid)
+EXPERIENCE: 2–5 years
+EDUCATION: Computer Science or related field
+
+ROLE OVERVIEW:
+We are looking for a Data Engineer to design, build, and maintain scalable data systems. You will work with large datasets and ensure data reliability across platforms.
+
+KEY RESPONSIBILITIES:
+- Build and maintain ETL/ELT pipelines
+- Process and transform large datasets
+- Ensure data quality and integrity
+- Optimize database performance
+- Collaborate with analysts and data scientists
+- Monitor and troubleshoot data issues
+
+REQUIRED SKILLS:
+- Strong SQL skills
+- Python
+- Data warehousing concepts
+- ETL tools and pipelines
+- Cloud platforms (AWS, Azure, GCP)
+- Problem-solving skills
+
+NICE TO HAVE:
+- Apache Airflow
+- Spark
+- Kafka
+- Experience with big data systems
+
+TEAM & CULTURE:
+- Collaborative environment
+- Focus on scalability and performance
+- Continuous learning and improvement

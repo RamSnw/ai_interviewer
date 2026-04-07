@@ -1,0 +1,32 @@
+JOB TITLE: DevOps Engineer
+
+LOCATION: Cluj-Napoca (Hybrid)
+EXPERIENCE: 2–5 years
+EDUCATION: Computer Science or related field
+
+ROLE OVERVIEW:
+We are looking for a DevOps Engineer to manage infrastructure and automate deployment processes.
+
+KEY RESPONSIBILITIES:
+- Build and maintain CI/CD pipelines
+- Manage cloud infrastructure
+- Monitor systems and ensure uptime
+- Automate deployment processes
+- Improve system reliability
+
+REQUIRED SKILLS:
+- Docker
+- Kubernetes
+- CI/CD tools
+- AWS / Azure
+- Scripting skills
+
+NICE TO HAVE:
+- Terraform
+- Monitoring tools (Prometheus, Grafana)
+- Security best practices
+
+TEAM & CULTURE:
+- Automation-first mindset
+- Reliability and performance focus
+- Strong ownership culture
